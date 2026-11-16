@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-hdr-display-support"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS hdr-display-support component - graphics"
+
+[lib]
+name = "hdr_display_support"
+path = "src/lib.rs"
