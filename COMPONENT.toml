@@ -3,7 +3,7 @@ name = "SigmaOS-hdr-display-support"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hdr-display-support component"
+description = "HDR Display Support"
 upstream = []
 
 [contract]
